@@ -1,0 +1,15 @@
+metric,value
+Test patients,20997.0
+Base readmission rate,0.0898
+AUC-ROC,0.6494
+"Cross-validated AUC, mean",0.6423
+"Cross-validated AUC, SD",0.0086
+Patients flagged (top 20%),4200.0
+True positives,699.0
+False positives,3501.0
+False negatives,1187.0
+True negatives,15610.0
+Precision,0.1664
+Recall,0.3706
+F1 score,0.2297
+Lift in flagged group,1.8529

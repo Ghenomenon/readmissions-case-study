@@ -1,0 +1,17 @@
+# Source data: download from UCI (see README). Not redistributed here.
+data/raw/*
+!data/raw/README.md
+
+# Row-level outputs: rebuilt locally by run_all.py, not published
+data/processed/
+outputs/powerbi/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+measure,median_readmitted,median_not,mean_readmitted,mean_not,mann_whitney_p,welch_t,welch_p,cohens_d
+Length of stay (days),4.0,3.0,4.7947,4.2219,0.0,14.2302,0.0,0.1956
+Medications,15.0,14.0,16.6204,15.571,0.0,9.5425,0.0,0.1267
+Diagnoses recorded,8.0,8.0,7.5147,7.1955,0.0,12.9667,0.0,0.1597
+Lab procedures,46.0,44.0,44.9063,42.6755,0.0,8.699,0.0,0.1122
+"Inpatient stays, prior year",0.0,0.0,0.3683,0.1573,0.0,16.7775,0.0,0.3525
+"Emergency visits, prior year",0.0,0.0,0.1496,0.0994,0.0,6.5948,0.0,0.098

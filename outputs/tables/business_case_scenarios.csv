@@ -1,0 +1,4 @@
+scenario,cost_per_follow_up,prevention_rate,cost_per_readmission,patients_followed_up,readmissions_in_flagged_group,readmissions_prevented,programme_cost,gross_saving,net_benefit,cost_per_prevented_readmission,break_even_prevention_rate
+Conservative,150,0.05,10000,200.0,33.29,1.665,30000.0,16645.235,-13354.765,18023.176,0.09
+Base,100,0.1,12500,200.0,33.29,3.329,20000.0,41613.088,21613.088,6007.725,0.048
+Optimistic,75,0.2,15000,200.0,33.29,6.658,15000.0,99871.41,84871.41,2252.897,0.03

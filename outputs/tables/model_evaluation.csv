@@ -1,0 +1,11 @@
+metric,value
+AUC-ROC,0.6494
+"AUC-ROC 95% CI low (bootstrap, 1,000 resamples)",0.6355
+AUC-ROC 95% CI high,0.6624
+PR-AUC (average precision),0.1615
+PR-AUC of a random model (= readmission rate),0.0898
+Brier score,0.0797
+Brier score of a no-skill model,0.0818
+Brier skill score,0.0255
+Mean predicted risk,0.0896
+Observed readmission rate,0.0898

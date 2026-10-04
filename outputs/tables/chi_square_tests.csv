@@ -1,0 +1,11 @@
+factor,chi2,dof,p_value,cramers_v,p_fdr
+Discharge destination,1006.9862,5,0.0,0.11995,0.0
+Prior inpatient stays,673.11618,4,0.0,0.09807,0.0
+Length of first stay,240.24691,3,0.0,0.05859,0.0
+Age band,189.02687,9,0.0,0.05197,0.0
+Primary diagnosis,75.25423,9,0.0,0.03279,0.0
+Race,18.24699,5,0.00265,0.01615,0.00442
+Admission type,13.30743,6,0.03841,0.01426,0.04302
+Admission source,8.3832,3,0.03872,0.01094,0.04302
+HbA1c tested,6.40519,1,0.01138,0.00957,0.01626
+Gender,0.29073,1,0.58975,0.00204,0.58975
