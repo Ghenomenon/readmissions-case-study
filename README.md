@@ -9,6 +9,7 @@ Meridian Health Network is a fictional case organisation. Its stakeholder discov
 ## What the project covers
 
 - Stakeholder discovery and requirements traceability
+- Business analysis pack: as-is and to-be discharge process maps, gap analysis and MoSCoW requirements
 - Data quality assessment and cleaning of 101,766 hospital encounters
 - Descriptive statistics and FDR-adjusted exploratory tests
 - Logistic regression risk model with cross-validation, calibration, PR-AUC and Brier score
@@ -19,6 +20,7 @@ Meridian Health Network is a fictional case organisation. Its stakeholder discov
 ## Read it first
 
 - [Full case study (PDF)](docs/Readmissions-Case-Study.pdf)
+- [Business analysis pack: process maps, gap analysis, MoSCoW requirements](docs/business-analysis.md)
 - [Interactive dashboard and capacity explorer](https://chigozie-nkwopara.netlify.app/readmissions-case-study)
 - [Power BI report](https://github.com/Ghenomenon/readmissions-powerbi)
 - [What changed between versions](CHANGELOG.md)
@@ -55,7 +57,7 @@ The pipeline rebuilds the cleaned data, every chart and table, and the Power BI 
 | `outputs/figures/` | Charts |
 | `outputs/tables/` | Aggregated result tables |
 | `outputs/web/` | Aggregate files used by the portfolio dashboard |
-| `docs/` | The full case study as a PDF |
+| `docs/` | The full case study as a PDF, and the business analysis pack |
 
 ## Data source and licence
 

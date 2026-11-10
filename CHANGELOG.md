@@ -1,5 +1,10 @@
 # Changelog
 
+## 10 November 2026: business analysis pack
+
+- Added `docs/business-analysis.md`: stakeholders, an assumed as-is discharge process, a gap analysis tied to the study's results, a to-be process, 15 MoSCoW-prioritised requirements with acceptance criteria, and a traceability matrix.
+- The as-is process is an assumed baseline for the fictional Meridian scenario and is labelled as such. No analysis results changed.
+
 ## 4 October 2026, evening: results reconciled with the dashboard and portfolio
 
 The earlier package and the live dashboard came from two slightly different pipeline versions. This release replaces the package with the one pipeline that now produces the report, the Power BI data and the portfolio site.
